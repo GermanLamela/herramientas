@@ -42,10 +42,4 @@
 
 ---
 
-## Cómo usar este repositorio
 
-1. Cada herramienta listada aquí puede ser descargada usando el enlace proporcionado.
-2. Sigue las instrucciones del instalador para cada herramienta para completar la instalación en tu sistema.
-3. Consulta la documentación oficial de cada herramienta para obtener guías y soporte adicional.
-
-Este kit de herramientas básicas está diseñado para proporcionar soluciones rápidas y efectivas para diversas tareas comunes de mantenimiento del sistema. ¡Esperamos que encuentres útil este conjunto de herramientas!
