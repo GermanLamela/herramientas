@@ -8,7 +8,8 @@
 ### B. Enlace para descargarse la herramienta
 [Descargar Speccy](https://www.ccleaner.com/speccy)
 
-
+### C. Vídeo explicativo
+https://drive.google.com/file/d/1jli7xOhVH9YGmc-KMbwqAFAamFyP4PXc/view?usp=drive_link
 
 ## 2. Testeo disco
 
@@ -18,6 +19,8 @@
 ### B. Enlace para descargarse la herramienta
 [Descargar CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/)
 
+### C. Vídeo explicativo
+
 ## 3. Recuperación de datos
 
 ### A. Descripción del programa
@@ -25,6 +28,8 @@
 
 ### B. Enlace para descargarse la herramienta
 [Descargar Recuva](https://www.ccleaner.com/recuva)
+
+### C. Vídeo explicativo
 
 ## 4. Recuperación de contraseñas
 
@@ -34,6 +39,8 @@
 ### B. Enlace para descargarse la herramienta
 [Descargar Sterjo Key Finder](https://sterjosoft.com/key-finder.html)
 
+### C. Vídeo explicativo
+
 ## 5. LIBRE (Herramienta útil)
 
 ### A. Descripción del programa
@@ -41,6 +48,8 @@
 
 ### B. Enlace para descargarse la herramienta
 [Descargar 7-Zip](https://www.7-zip.org/)
+
+### C. Vídeo explicativo
 
 ---
 
