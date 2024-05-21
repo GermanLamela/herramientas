@@ -2,4 +2,5 @@
 
 ## Índice
 
-- [1. Información del sistema](kitHerramientas/1Informacion_del_Sistema.md)
+- 1. [Información del sistema](kitHerramientas/1Informacion_del_Sistema.md)
+- [2. Testeo disco](kitHerramientas/1Informacion_del_Sistema.md)
