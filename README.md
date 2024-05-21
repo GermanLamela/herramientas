@@ -2,7 +2,7 @@
 
 ![calaveraultraepica](https://github.com/GermanLamela/herramientas/assets/91904953/11634cc8-3ca0-4846-8865-a952fe560a18)
 
-
+***hola
 ## Índice
 
 - [1. Información del sistema](kitHerramientas/1Informacion_del_Sistema.md)
