@@ -8,6 +8,8 @@
 ### B. Enlace para descargarse la herramienta
 [Descargar Speccy](https://www.ccleaner.com/speccy)
 
+
+
 ## 2. Testeo disco
 
 ### A. Descripción del programa
