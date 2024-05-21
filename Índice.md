@@ -12,9 +12,6 @@
 
 ---
 
-Hecho por Germán Lamela.
-
----
 ## Índice
 
 - [1. Información del sistema](kitHerramientas/1Informacion_del_Sistema.md)
@@ -26,5 +23,10 @@ Hecho por Germán Lamela.
 - [4. Recuperación de contraseñas](kitHerramientas/4Recuperación_de_contraseñas.md)
 
 - [5. LIBRE (Herramienta útil)](kitHerramientas/5LIBRE.md)
+
+
+---
+
+Hecho por Germán Lamela.
 
 ---
