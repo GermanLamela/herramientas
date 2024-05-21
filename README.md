@@ -27,7 +27,7 @@
 ## 4. Recuperación de contraseñas
 
 ### A. Descripción del programa
-**Ophcrack**: Ophcrack es una herramienta gratuita de recuperación de contraseñas que utiliza tablas de búsqueda arco iris para descifrar contraseñas de Windows. Es eficiente y puede recuperar contraseñas de Windows en pocos minutos.
+**Sterjo Key Finder**: Sterjo Key Finder es una herramienta gratuita de recuperación de claves. Es eficiente y muy sencilla de utilizar.
 
 ### B. Enlace para descargarse la herramienta
 [Descargar Ophcrack](http://ophcrack.sourceforge.net/)
