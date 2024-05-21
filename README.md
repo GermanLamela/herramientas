@@ -20,6 +20,7 @@ https://drive.google.com/file/d/1jli7xOhVH9YGmc-KMbwqAFAamFyP4PXc/view?usp=drive
 [Descargar CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/)
 
 ### C. Vídeo explicativo
+https://drive.google.com/file/d/1kU0emcm8W_4DV5FrG1Vkvp0c6GI60IFS/view?usp=drive_link
 
 ## 3. Recuperación de datos
 
@@ -30,6 +31,7 @@ https://drive.google.com/file/d/1jli7xOhVH9YGmc-KMbwqAFAamFyP4PXc/view?usp=drive
 [Descargar Recuva](https://www.ccleaner.com/recuva)
 
 ### C. Vídeo explicativo
+https://drive.google.com/file/d/1kU0emcm8W_4DV5FrG1Vkvp0c6GI60IFS/view?usp=drive_link
 
 ## 4. Recuperación de contraseñas
 
@@ -40,6 +42,7 @@ https://drive.google.com/file/d/1jli7xOhVH9YGmc-KMbwqAFAamFyP4PXc/view?usp=drive
 [Descargar Sterjo Key Finder](https://sterjosoft.com/key-finder.html)
 
 ### C. Vídeo explicativo
+https://drive.google.com/file/d/1NNQWs-f4SDebn2tLN4oT3ib6X_nbHh1m/view?usp=drive_link
 
 ## 5. LIBRE (Herramienta útil)
 
@@ -50,7 +53,7 @@ https://drive.google.com/file/d/1jli7xOhVH9YGmc-KMbwqAFAamFyP4PXc/view?usp=drive
 [Descargar 7-Zip](https://www.7-zip.org/)
 
 ### C. Vídeo explicativo
-
+https://drive.google.com/file/d/1RdiFve6iaSW1i8bECpYMKcyBU3jvg7ve/view?usp=drive_link
 ---
 
 
