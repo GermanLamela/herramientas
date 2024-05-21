@@ -30,7 +30,7 @@
 **Sterjo Key Finder**: Sterjo Key Finder es una herramienta gratuita de recuperación de claves. Es eficiente y muy sencilla de utilizar.
 
 ### B. Enlace para descargarse la herramienta
-[Descargar Ophcrack](http://ophcrack.sourceforge.net/)
+[Descargar Sterjo Key Finder](https://sterjosoft.com/key-finder.html)
 
 ## 5. LIBRE (Herramienta útil)
 
