@@ -9,6 +9,5 @@
 [Descargar Sterjo Key Finder](https://sterjosoft.com/key-finder.html)
 
 ### C. Vídeo explicativo
-https://drive.google.com/file/d/1NNQWs-f4SDebn2tLN4oT3ib6X_nbHh1m/view?usp=drive_link
-
+https://drive.google.com/file/d/16HVUrU7SVIjoukiPZDkSlxIM5JVq0Ug-/view?usp=drive_link
 ---
