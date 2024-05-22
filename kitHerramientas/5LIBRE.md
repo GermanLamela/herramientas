@@ -9,7 +9,7 @@
 [Descargar 7-Zip](https://www.7-zip.org/)
 
 ### C. Vídeo explicativo
-https://drive.google.com/file/d/1RdiFve6iaSW1i8bECpYMKcyBU3jvg7ve/view?usp=drive_link
+https://drive.google.com/file/d/1NPwlUWOhT8Uy_PYDLaSBl_DRFXLGIoIi/view?usp=drive_link
 
 ---
 
