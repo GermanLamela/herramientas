@@ -9,6 +9,6 @@
 [Descargar CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/)
 
 ### C. Vídeo explicativo
-https://drive.google.com/file/d/1kU0emcm8W_4DV5FrG1Vkvp0c6GI60IFS/view?usp=drive_link
+https://drive.google.com/file/d/1HvLnGU5YY8ladP1YxI3MpVoPvTmwjGQY/view?usp=drive_link
 
 ---
