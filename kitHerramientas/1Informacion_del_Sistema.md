@@ -9,6 +9,6 @@
 [Descargar Speccy](https://www.ccleaner.com/speccy)
 
 ### C. Vídeo explicativo
-https://drive.google.com/file/d/1jli7xOhVH9YGmc-KMbwqAFAamFyP4PXc/view?usp=drive_link
+https://drive.google.com/file/d/12VmUaguDCpi2chVH5y9EM0VJEE2TZIOI/view?usp=drive_link
 
 ---
